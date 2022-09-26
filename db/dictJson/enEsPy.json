@@ -1,0 +1,502 @@
+[
+  {
+    "word_en": "air",
+    "word_es": "aire",
+    "word_py": "yvytu"
+  },
+  {
+    "word_en": "area",
+    "word_es": "área",
+    "word_py": "ambue"
+  },
+  {
+    "word_en": "art",
+    "word_es": "arte",
+    "word_py": "temiporä"
+  },
+  {
+    "word_en": "back",
+    "word_es": "detrás",
+    "word_py": "kupe"
+  },
+  {
+    "word_en": "body",
+    "word_es": "cuerpo",
+    "word_py": "rete"
+  },
+  {
+    "word_en": "book",
+    "word_es": "libro",
+    "word_py": "aranduka"
+  },
+  {
+    "word_en": "business",
+    "word_es": "negocio",
+    "word_py": "ñemuha"
+  },
+  {
+    "word_en": "car",
+    "word_es": "coche",
+    "word_py": "mba'yrujere"
+  },
+  {
+    "word_en": "case",
+    "word_es": "caso",
+    "word_py": "káso"
+  },
+  {
+    "word_en": "change",
+    "word_es": "cambio",
+    "word_py": "tekovia"
+  },
+  {
+    "word_en": "child",
+    "word_es": "niño",
+    "word_py": "mitä'i"
+  },
+  {
+    "word_en": "city",
+    "word_es": "ciudad",
+    "word_py": "táva"
+  },
+  {
+    "word_en": "community",
+    "word_es": "comunidad",
+    "word_py": "tekoha"
+  },
+  {
+    "word_en": "company",
+    "word_es": "empresa",
+    "word_py": "mba'apoha"
+  },
+  {
+    "word_en": "country",
+    "word_es": "país",
+    "word_py": "tetä"
+  },
+  {
+    "word_en": "day",
+    "word_es": "dia",
+    "word_py": "ára"
+  },
+  {
+    "word_en": "dog",
+    "word_es": "perro",
+    "word_py": "jagua"
+  },
+  {
+    "word_en": "door",
+    "word_es": "puerta",
+    "word_py": "okë"
+  },
+  {
+    "word_en": "education",
+    "word_es": "educación",
+    "word_py": "tekombo'e"
+  },
+  {
+    "word_en": "end",
+    "word_es": "fin",
+    "word_py": "apy "
+  },
+  {
+    "word_en": "eye",
+    "word_es": "ojo",
+    "word_py": "tesa"
+  },
+  {
+    "word_en": "face",
+    "word_es": "cara",
+    "word_py": "tova"
+  },
+  {
+    "word_en": "fact",
+    "word_es": "hecho",
+    "word_py": "oikova"
+  },
+  {
+    "word_en": "family",
+    "word_es": "familia",
+    "word_py": "ogaygua"
+  },
+  {
+    "word_en": "father",
+    "word_es": "padre",
+    "word_py": "túva"
+  },
+  {
+    "word_en": "friend",
+    "word_es": "amigo",
+    "word_py": "angirü"
+  },
+  {
+    "word_en": "game",
+    "word_es": "juego",
+    "word_py": "ñembosarái"
+  },
+  {
+    "word_en": "girl",
+    "word_es": "chica",
+    "word_py": "mitäkuña"
+  },
+  {
+    "word_en": "government",
+    "word_es": "gobierno",
+    "word_py": "ñeisãmbyhy"
+  },
+  {
+    "word_en": "group",
+    "word_es": "grupo",
+    "word_py": "aty"
+  },
+  {
+    "word_en": "guy",
+    "word_es": "chico",
+    "word_py": "mitãrusu"
+  },
+  {
+    "word_en": "hand",
+    "word_es": "mano",
+    "word_py": "po"
+  },
+  {
+    "word_en": "head",
+    "word_es": "cabeza",
+    "word_py": "akä"
+  },
+  {
+    "word_en": "health",
+    "word_es": "salud",
+    "word_py": "tesäi"
+  },
+  {
+    "word_en": "history",
+    "word_es": "historia",
+    "word_py": "oikovaʼekue"
+  },
+  {
+    "word_en": "home",
+    "word_es": "hogar",
+    "word_py": "ogapy"
+  },
+  {
+    "word_en": "hour",
+    "word_es": "hora",
+    "word_py": "aravo"
+  },
+  {
+    "word_en": "house",
+    "word_es": "casa",
+    "word_py": "óga"
+  },
+  {
+    "word_en": "idea",
+    "word_es": "idea",
+    "word_py": "temimo'ä"
+  },
+  {
+    "word_en": "information",
+    "word_es": "información",
+    "word_py": "momarandu"
+  },
+  {
+    "word_en": "issue",
+    "word_es": "tema",
+    "word_py": "ñe'ërä"
+  },
+  {
+    "word_en": "job",
+    "word_es": "trabajo",
+    "word_py": "tembiaporä"
+  },
+  {
+    "word_en": "kid",
+    "word_es": "niño",
+    "word_py": "mitä'i"
+  },
+  {
+    "word_en": "kind",
+    "word_es": "tipo",
+    "word_py": "ñemohenda"
+  },
+  {
+    "word_en": "law",
+    "word_es": "tiempo",
+    "word_py": "Teko me'ẽ"
+  },
+  {
+    "word_en": "level",
+    "word_es": "nivel",
+    "word_py": "mbojojaha"
+  },
+  {
+    "word_en": "life",
+    "word_es": "vida",
+    "word_py": "tekove"
+  },
+  {
+    "word_en": "line",
+    "word_es": "linea",
+    "word_py": "jehai"
+  },
+  {
+    "word_en": "lot",
+    "word_es": "mucho",
+    "word_py": "heta"
+  },
+  {
+    "word_en": "man",
+    "word_es": "hombre",
+    "word_py": "kuimbaʼe"
+  },
+  {
+    "word_en": "member",
+    "word_es": "miembro",
+    "word_py": "Miembrokuéra"
+  },
+  {
+    "word_en": "minute",
+    "word_es": "minuto",
+    "word_py": "michïmi"
+  },
+  {
+    "word_en": "moment",
+    "word_es": "momento",
+    "word_py": "sapy'a"
+  },
+  {
+    "word_en": "money",
+    "word_es": "dinero",
+    "word_py": "pirapire"
+  },
+  {
+    "word_en": "month",
+    "word_es": "mes",
+    "word_py": "jasy"
+  },
+  {
+    "word_en": "morning",
+    "word_es": "mañana",
+    "word_py": "pyhareve"
+  },
+  {
+    "word_en": "mother",
+    "word_es": "madre",
+    "word_py": "sy"
+  },
+  {
+    "word_en": "name",
+    "word_es": "nombre",
+    "word_py": "téra"
+  },
+  {
+    "word_en": "night",
+    "word_es": "noche",
+    "word_py": "pyhare"
+  },
+  {
+    "word_en": "number",
+    "word_es": "número",
+    "word_py": "papapy"
+  },
+  {
+    "word_en": "office",
+    "word_es": "oficina",
+    "word_py": "kotymba'apoha"
+  },
+  {
+    "word_en": "part",
+    "word_es": "parte",
+    "word_py": "jehupyrehai"
+  },
+  {
+    "word_en": "party",
+    "word_es": "fiesta",
+    "word_py": "arete"
+  },
+  {
+    "word_en": "people",
+    "word_es": "gente",
+    "word_py": "hénte  "
+  },
+  {
+    "word_en": "person",
+    "word_es": "persona",
+    "word_py": "máva"
+  },
+  {
+    "word_en": "place",
+    "word_es": "lugar",
+    "word_py": "tekoha"
+  },
+  {
+    "word_en": "point",
+    "word_es": "punto",
+    "word_py": "kyta"
+  },
+  {
+    "word_en": "power",
+    "word_es": "poder",
+    "word_py": "pokatu"
+  },
+  {
+    "word_en": "president",
+    "word_es": "presidente",
+    "word_py": "mburuvicha"
+  },
+  {
+    "word_en": "problem",
+    "word_es": "problema",
+    "word_py": "apañuäi"
+  },
+  {
+    "word_en": "program",
+    "word_es": "programa",
+    "word_py": "mba'apo"
+  },
+  {
+    "word_en": "question",
+    "word_es": "pregunta",
+    "word_py": "porandu"
+  },
+  {
+    "word_en": "reason",
+    "word_es": "razón",
+    "word_py": "kuaareko"
+  },
+  {
+    "word_en": "research",
+    "word_es": "investigación",
+    "word_py": "tapykueho"
+  },
+  {
+    "word_en": "result",
+    "word_es": "resultado",
+    "word_py": "jahupytýta"
+  },
+  {
+    "word_en": "right",
+    "word_es": "derecha",
+    "word_py": "akatúa"
+  },
+  {
+    "word_en": "room",
+    "word_es": "habitación",
+    "word_py": "koty"
+  },
+  {
+    "word_en": "school",
+    "word_es": "escuela",
+    "word_py": "mbo'ehao"
+  },
+  {
+    "word_en": "service",
+    "word_es": "servicio",
+    "word_py": "jeservi"
+  },
+  {
+    "word_en": "side",
+    "word_es": "lado",
+    "word_py": "yke"
+  },
+  {
+    "word_en": "state",
+    "word_es": "estado",
+    "word_py": "tetämyakä"
+  },
+  {
+    "word_en": "story",
+    "word_es": "historia",
+    "word_py": "tembiasakue"
+  },
+  {
+    "word_en": "student",
+    "word_es": "estudiante",
+    "word_py": "temimbo’e"
+  },
+  {
+    "word_en": "study",
+    "word_es": "estudiar",
+    "word_py": "ñemoarandu"
+  },
+  {
+    "word_en": "system",
+    "word_es": "sistema",
+    "word_py": "tembiaporape"
+  },
+  {
+    "word_en": "teacher",
+    "word_es": "profesor",
+    "word_py": "mbo'ehára"
+  },
+  {
+    "word_en": "team",
+    "word_es": "equipo",
+    "word_py": "atypy"
+  },
+  {
+    "word_en": "thing",
+    "word_es": "cosa",
+    "word_py": "mba'e"
+  },
+  {
+    "word_en": "time",
+    "word_es": "tiempo",
+    "word_py": "upérõ"
+  },
+  {
+    "word_en": "tomorrow",
+    "word_es": "mañana",
+    "word_py": "ko'ërö"
+  },
+  {
+    "word_en": "tree",
+    "word_es": "árbol",
+    "word_py": "yvyrarakä"
+  },
+  {
+    "word_en": "war",
+    "word_es": "guerra",
+    "word_py": "ñorairö"
+  },
+  {
+    "word_en": "water",
+    "word_es": "agua",
+    "word_py": "y"
+  },
+  {
+    "word_en": "way",
+    "word_es": "camino",
+    "word_py": "tape"
+  },
+  {
+    "word_en": "week",
+    "word_es": "semana",
+    "word_py": "arapokõindy"
+  },
+  {
+    "word_en": "woman",
+    "word_es": "mujer",
+    "word_py": "kuña"
+  },
+  {
+    "word_en": "word",
+    "word_es": "palabra",
+    "word_py": "ñe'ë"
+  },
+  {
+    "word_en": "work",
+    "word_es": "tiempo",
+    "word_py": "tembiapo"
+  },
+  {
+    "word_en": "world",
+    "word_es": "mundo",
+    "word_py": "yvy'apu'a"
+  },
+  {
+    "word_en": "year",
+    "word_es": "tiempo",
+    "word_py": "ary"
+  }
+]

@@ -1,10 +1,11 @@
 const router = require("express").Router();
 
-router.get("/", (req, res, next) => {
-  res.json("All good in here");
+
+router.get("/index", (req, res, next) => {
+  res.json({
+    message: "INDEX Routes works"
+  });
 });
 
-// You put the next routes here 👇
-// example: router.use("/auth", authRoutes)
 
 module.exports = router;

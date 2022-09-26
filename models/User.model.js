@@ -7,14 +7,15 @@ const userSchema = new Schema(
       type: String,
       // unique: true -> Ideally, should be unique, but its up to you
     },
-    password: String,
+    password: { type: String },
   },
   {
     // this second object adds extra properties: `createdAt` and `updatedAt`
     timestamps: true,
+
   }
 );
 
-const User = model("User", userSchema);
+const UserModel = model("User", userSchema);
 
-module.exports = User;
+module.exports = UserModel;
