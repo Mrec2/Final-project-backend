@@ -18,7 +18,7 @@ Route | Type | Description
 /dict/words | GET | Ver todas las palabras del diccionario
 /dict/addword | POST | Añadir palabra al diccionario
 /dict/:id/edit | PUT | Editar palabra
-/dict/:id/delete | PUT | Editar palabra
+/dict/:id/delete | DELETE | Editar palabra
 
 
 Route | Type | Description
