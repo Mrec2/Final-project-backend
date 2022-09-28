@@ -1,5 +1,5 @@
 const { isValidObjectId } = require('mongoose');
-const WordsModel = require('../models/Words.model')
+const WordsModel = require('../models/words.model')
 
 const getAll = (req, res, next) => {
     // const { offset = 0, limit = 100 } = req.query;

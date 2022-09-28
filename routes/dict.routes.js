@@ -1,5 +1,5 @@
 const router = require('express').Router();
-const WordsModel = require("../models/Words.model")
+const WordsModel = require("../models/words.model")
 const { getAll, getOne, create, updateOne, deleteOne } = require("../controller/words.controller");
 
 

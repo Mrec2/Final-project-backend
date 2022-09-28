@@ -1,29 +1,18 @@
 const router = require('express').Router();
-const UserModel = require("../models/User.model")
+const { GetUser } = require('../controller/user.controller');
 
-router.get("/home", (req, res, next) => {
-    res.json({
-        message: "USER routes works!!"
-    })
-});
-
-
-router.get("/signup", (req, res, next) => {
+// router.get("/home", (req, res, next) => {
+//     res.json({
+//         message: "USER routes works!!"
+//     })
+// });
 
 
-});
 
-router.get("/login", (req, res, next) => {
-
-
-});
-
-router.post("/editprofile", (req, res, next) => {
-
-
-});
+router.get('/me', GetUser)
 
 
 
 
 module.exports = router;
+
