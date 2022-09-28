@@ -1,29 +1,25 @@
 const router = require('express').Router();
 const WordsModel = require("../models/Words.model")
-
-router.get("/words", (req, res, next) => {
-
-
-    WordsModel.find()
-        .then((words) => {
-            console.log(words)
-            res.json(words)
-        })
-        .catch((err) => console.log(err))
-});
+const { getAll, getOne, create, updateOne, deleteOne } = require("../controller/words.controller");
 
 
-router.get("/home", (req, res, next) => {
+router.get("/words", getAll);
+
+router.get("/words/:id", getOne);
+
+router.post("/addwords", create);
+
+router.put("/:id/edit", updateOne);
+
+router.delete("/:id/delete", deleteOne);
 
 
-});
-
-router.get("/home", (req, res, next) => {
 
 
-});
 
 
 
 
 module.exports = router;
+
+

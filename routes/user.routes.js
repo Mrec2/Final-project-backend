@@ -18,6 +18,11 @@ router.get("/login", (req, res, next) => {
 
 });
 
+router.post("/editprofile", (req, res, next) => {
+
+
+});
+
 
 
 

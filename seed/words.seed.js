@@ -2,7 +2,7 @@ require('dotenv/config');
 
 const mongoose = require('mongoose');
 const wordsModel = require('../models/Words.model');
-const words = require('../db/dictJson/enEsPy.json');
+const words = require('./enEsPy.json');
 
 const MONGO_URI = process.env.MONGODB_URI || 'mongodb://localhost/lastProjectBackend';
 
