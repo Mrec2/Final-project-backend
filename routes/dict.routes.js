@@ -5,7 +5,7 @@ const { getAll, getOne, create, updateOne, deleteOne } = require("../controller/
 
 router.get("/words", getAll);
 
-router.get("/words/:id", getOne);
+router.get("/word/:id", getOne);
 
 router.post("/addwords", create);
 

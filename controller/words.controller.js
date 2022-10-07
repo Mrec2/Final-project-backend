@@ -37,6 +37,7 @@ const getOne = (req, res, next) => {
         WordsModel
             .findById(id)
             .then((word) => {
+                console.log("Devuelve esto de back: " + word);
                 res.status(200).json(word);
             })
             .catch(next);
@@ -65,9 +66,6 @@ const create = (req, res, next) => {
 const updateOne = (req, res, next) => {
     try {
         const { id } = req.params;
-        if (!isValidObjectId(id)) {
-            throw new Error('Error: Invalid mongo ID');
-        }
         const {
             word_en,
             word_es,
@@ -91,13 +89,11 @@ const updateOne = (req, res, next) => {
 const deleteOne = (req, res, next) => {
     try {
         const { id } = req.params;
-        if (!isValidObjectId(id)) {
-            throw new Error('Error: Invalid mongo ID');
-        }
+        console.log(id);
         WordsModel
             .findByIdAndDelete(id)
             .then(() => {
-                res.sendStatus(204);
+                res.status(204).json({ message: "deleted" });
             })
             .catch(next);
     } catch (err) {
